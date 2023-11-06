@@ -4,4 +4,4 @@ ___
    Убедитесь что загрузилась нужная страница.<br>
 
 2. (Опциональное) Запрограммируйте Drag&Drop с помощью Selenide.actions()<br>
-Откройте [herokuapp] (https://the-internet.herokuapp.com/drag_and_drop)
+Откройте [herokuapp](https://the-internet.herokuapp.com/drag_and_drop)
